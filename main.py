@@ -1,7 +1,8 @@
 import sys
 import traceback
 
-def main():pass
+def main():
+    print('Start')
 
 if __name__ == '__main__':
     main()

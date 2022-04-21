@@ -1,9 +1,8 @@
 from enum import Enum
 
-class Place(Enum):
-    RESTROOM = '화장실'
+class Place(Enum):pass
 
-class Action(Enum):
+class Action(Enum):pass
 
 class Result(Enum):pass
 
